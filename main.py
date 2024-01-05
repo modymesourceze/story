@@ -51,7 +51,7 @@ def chckao(user_id):
     
     tok = Config.TG_BOT_TOKEN
 
-bot = telebot.TeleBot(tok ,num_threads=29, skip_pending=True )
+bot = telebot.TeleBot("6860827634:AAGR_SdWKLafeG8LavC5RAKwoPoYfKg_WQE" ,num_threads=29, skip_pending=True )
 
 def submsg(message,channel):
     keys = mk(row_width=2)
