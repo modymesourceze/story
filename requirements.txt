@@ -1,0 +1,5 @@
+asyncio
+pyrogram
+telebot
+kvsqlite
+aiohttp
